@@ -37,4 +37,19 @@ main{
     margin-left: 16px;
    font-size: 18px;
 }
+hr{
+    border: 1px solid #D1D1D1;
+    margin-top: 29px;
+}
 
+
+/* top blogs styles */
+
+
+.blog{
+    display: flex;
+}
+.blog .thumbnail img{
+    height: 117px;
+    width: 177px;
+}
